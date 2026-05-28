@@ -1,0 +1,32 @@
+aid: transport-for-atlanta-us
+name: Transport for Atlanta, US
+description: "Marta"
+url: http://www.itsmarta.com/app-developer-resources.aspx
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Atlanta, US
+    description: "Marta"
+    humanURL: http://www.itsmarta.com/app-developer-resources.aspx
+    baseURL: http://www.itsmarta.com/app-developer-resources.aspx
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: http://www.itsmarta.com/app-developer-resources.aspx
+common:
+  - type: Website
+    url: http://www.itsmarta.com/app-developer-resources.aspx
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
