@@ -39,7 +39,6 @@ apis:
   - name: Transport for Atlanta, US
     description: "Marta"
     humanURL: http://www.itsmarta.com/app-developer-resources.aspx
-    baseURL: http://www.itsmarta.com/app-developer-resources.aspx
     tags:
       - Transportation
     properties:
